@@ -8,10 +8,12 @@
 > 元信息的正确使用可以影响搜索引擎排名
 
 ### <head>
+
 ### <title>
+
 ### <base>
 ### <meta>
-  ####
+  #### 
   #### [charset]
   #### [http-equiv]
   #### [viewport]
